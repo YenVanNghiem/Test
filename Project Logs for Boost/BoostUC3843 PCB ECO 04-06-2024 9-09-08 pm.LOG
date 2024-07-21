@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=VCC Pin=R7-2
+Removed Pin From Net: NetName=Vout Pin=R8-2
+Removed Member From Class: ClassName=BoostUC3843 Member=R7
+Removed Member From Class: ClassName=BoostUC3843 Member=R8
+Added Pin To Net: NetName=VCC Pin=U1-1
+Added Member To Class: ClassName=BoostUC3843 Member=Component U1 7809
+Added Room: Name=BoostUC3843

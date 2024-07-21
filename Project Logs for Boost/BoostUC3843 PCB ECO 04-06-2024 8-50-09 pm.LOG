@@ -1,0 +1,11 @@
+Added Component: Designator=R4(RES-SMD-2512)
+Add component (AddParameter): Name = "Value"; Value = "R1/4W - 1K"; VariantName = "[No Variations]"
+Added Component: Designator=R5(RES-SMD-2512)
+Add component (AddParameter): Name = "Value"; Value = "R1/4W - 1K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=R4-1
+Added Pin To Net: NetName=CS Pin=R4-2
+Added Pin To Net: NetName=GND Pin=R5-1
+Added Pin To Net: NetName=CS Pin=R5-2
+Added Member To Class: ClassName=BoostUC3843 Member=Component R4 1R
+Added Member To Class: ClassName=BoostUC3843 Member=Component R5 1R
+Added Room: Name=BoostUC3843
